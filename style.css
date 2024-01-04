@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar-brand{
+font-size: 45px;
+}
+
+header{
+    background-size: cover;
+    background-image: url("./d42409554ae99ae8e4c9d9fb6d01074a.jpeg");
+    background-attachment: fixed;
+}
+
+.title{
+    font-size: 70px;
+}
+
+.titlesm{
+    font-size: 60px;
+}
+
+.bg{  
+    background-image: url("./d42409554ae99ae8e4c9d9fb6d01074a.jpeg");
+    background-attachment: fixed;
+    background-size: cover;
+}
